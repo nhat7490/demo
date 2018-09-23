@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Roommate/Extension/Extension.swift"
+            timestampString = "559333152.0402451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 2 of (extension in Roommate):__ObjC.UIView.anchorCenterXAndY(Swift.Optional&lt;__ObjC.NSLayoutXAxisAnchor&gt;, Swift.Optional&lt;__ObjC.NSLayoutYAxisAnchor&gt;, CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; Swift.Array&lt;__ObjC.NSLayoutConstraint&gt;"
+                  moduleName = "Roommate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trinhhc/Desktop/Roommate/Roommate/Extension/Extension.swift"
+                  timestampString = "559326161.348157"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 3 of (extension in Roommate):__ObjC.UIView.anchorCenterXAndY(Swift.Optional&lt;__ObjC.NSLayoutXAxisAnchor&gt;, Swift.Optional&lt;__ObjC.NSLayoutYAxisAnchor&gt;, CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; Swift.Array&lt;__ObjC.NSLayoutConstraint&gt;"
+                  moduleName = "Roommate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trinhhc/Desktop/Roommate/Roommate/Extension/Extension.swift"
+                  timestampString = "559326161.3525029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Roommate/View/Cell/Notification/NotificationTVCell.swift"
+            timestampString = "559280868.1088589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Roommate/View/Cell/Notification/NotificationTVCell.swift"
+            timestampString = "559280868.108982"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Roommate/View/Cell/Notification/NotificationTVCell.swift"
+            timestampString = "559280868.109102"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "setModel(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
