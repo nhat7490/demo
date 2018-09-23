@@ -15,4 +15,6 @@ class Utilities{
     static func embedVCInNavigationVC(vc:UIViewController) -> UINavigationController {
         return UINavigationController(rootViewController: vc)
     }
+    
+    //Test
 }
