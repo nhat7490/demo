@@ -18,4 +18,6 @@ class User{
         self.name = name
         self.imageUrl = imageUrl
     }
+    
+    //Test
 }
